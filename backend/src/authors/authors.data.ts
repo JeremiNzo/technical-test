@@ -1,0 +1,22 @@
+export const authorsData = [
+    {
+      "id": 1,
+      "nombres": "Juan Pérez"
+    },
+    {
+      "id": 2,
+      "nombres": "María Rodríguez"
+    },
+    {
+      "id": 3,
+      "nombres": "Luis García"
+    },
+    {
+      "id": 4,
+      "nombres": "Miguel Navarrete"
+    },
+    {
+      "id": 5,
+      "nombres": "Alejando Navas"
+    }
+  ];  
